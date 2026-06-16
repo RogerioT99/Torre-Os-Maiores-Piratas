@@ -130,11 +130,12 @@ body{
 }
 
 .player-info h2{
+    font-size:40px;
     margin-bottom:10px;
 }
 
 .player-info p{
-    font-size:18px;
+    font-size:20px;
     margin-bottom:8px;
 }
 
