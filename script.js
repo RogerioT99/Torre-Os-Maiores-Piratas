@@ -18,22 +18,7 @@ const jogadores = [
         nome: "Tixa",
         pontos: 100000000,
         imagem: "images/Tixa.jpg"
-    },
-    {
-        nome: "Teste1",
-        pontos: 100000,
-        imagem: "images/Tixa.jpg"
-    },
-    {
-        nome: "teste 3",
-        pontos: 300000,
-        imagem: "images/Tixa.jpg"
-    },
-    {
-        nome: "teste 4",
-        pontos: 1000000,
-        imagem: "images/Tixa.jpg"
-    },
+    }
 ];
 
 // Eventos
