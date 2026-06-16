@@ -2,20 +2,20 @@ const jogadores = [
     {
         nome: "Luffy",
         pontos: 1500,
-        imagem: "images/luffy.png"
+        imagem: "images/luffy.jpg"
     },
     {
         nome: "Zoro",
         pontos: 1200,
-        imagem: "images/zoro.png"
+        imagem: "images/zoro.jpg"
     },
     {
         nome: "Nami",
         pontos: 1000,
-        imagem: "images/nami.png"
+        imagem: "images/nami.jpg"
     },
     {
-        nome: "Tixa",
+        nome: "Exemplo",
         pontos: 100000000,
         imagem: "images/Tixa.jpg"
     }
