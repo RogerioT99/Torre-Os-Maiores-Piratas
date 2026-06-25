@@ -276,6 +276,7 @@ main {
     align-items: center;
     justify-content: center;
     min-width: 60px;
+    gap: 8px;
 }
 
 .rank-number {
